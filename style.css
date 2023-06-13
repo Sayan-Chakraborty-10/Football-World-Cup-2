@@ -18,35 +18,64 @@ body{
     background-image: linear-gradient(#FF9F4A, #FF3C83);
 }
 .div3{
-    margin-left: 250px;
-    margin-top: -200px;
+    width: 200px;
+    margin-left: 230px;
+    margin-top: -190px;
 }
 .div4{
-    margin-left: 250px;
-    margin-top: -200px;
+    width: 200px;
+    margin-left: 200px;
+    margin-top: -190px;
 }
 .div5{
-    margin-left: 250px;
+    width: 200px;
+    margin-top: -220px;
+    margin-left: 950px;
 }
 .div6{
-    margin-left: 250px;
+    width: 200px;
+    margin-left: 190px;
 }
 .div7{
-    margin-left: 250px;
+    width: 200px;
+    margin-left: 160px;
 }
 .div8{
-    margin-left: 250px;
+    width: 200px;
+    margin-top: -230px;
+    margin-left: 950px;
 }
 .div9{
-    margin-left: 250px;
+    width: 200px;
+    margin-left: 230px;
 }
 .div10{
-    margin-left: 250px;
+    width: 200px;
+    margin-left: 200px;
 }
 .div11{
-    margin-left: 250px;
+    width: 200px;
+    margin-top: -250px;
+    margin-left: 950px;
 }
 .div12{
+    width: 200px;
+    margin-left: 190px;
+}
+.div13{
+    width: 200px;
+    margin-left: 160px;
+}
+.div14{
+    width: 200px;
+    margin-top: -235px;
+    margin-left: 950px;
+}
+.div15{
+    width: 200px;
+    margin-left: 230px;
+}
+.div16{
     background-color: #242B2E;
     height: 500px;
 }
@@ -86,13 +115,11 @@ body{
     }
     .div4{
         margin-left: 120px;
-        margin-top: 100px;
+        margin-top: 0px;
     }
     .div5{
         margin-left: 120px;
-    }
-    .div6{
-        margin-left: 120px;
+        margin-top: 50px;
     }
     .div6{
         margin-left: 120px;
@@ -102,17 +129,33 @@ body{
     }
     .div8{
         margin-left: 120px;
+        margin-top: 50px;
     }
     .div9{
         margin-left: 120px;
+        margin-top: 50px;
     }
     .div10{
         margin-left: 120px;
     }
     .div11{
         margin-left: 120px;
+        margin-top: 50px;
     }
     .div12{
+        margin-left: 120px;
+    }
+    .div13{
+        margin-left: 120px;
+    }
+    .div14{
+        margin-left: 120px;
+        margin-top: 50px;
+    }
+    .div15{
+        margin-left: 120px;
+    }
+    .div16{
         width: 480px;
     }
 }
